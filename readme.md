@@ -1,0 +1,1 @@
+This repo contains several smaller projects built during my studies in Maximilian Schwarzmüller's React - The Complete Guide udemy course.
